@@ -1,7 +1,8 @@
 Foco, força e fé :pray:
 
 - 👋 Hello World... Eu sou @MarcosDS013
-- Aluno do curso de Desenvolvimento de Sistemas da Etec em São Vicente SP.
+- Fui aluno do curso de Desenvolvimento de Sistemas da Etec em São Vicente SP.
+- Aluno da faculdade Univesp, EAD Bacharelado em Tecnologia da Informação.
 
 
  “Uma máquina consegue fazer o trabalho de 50 homens ordinários. Nenhuma máquina consegue fazer o trabalho de um homem extraordinário”. Elbert Hubbard – escritor. 👀
